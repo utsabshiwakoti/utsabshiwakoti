@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![radical][radical]  ![radical][radical_repo]
 
 
-[radical]: https://github-readme-stats.vercel.app/api?username=utbshi&show_icons=true&cache_seconds=60&theme=radical
-[radical_repo]: https://github-readme-stats.vercel.app/api/top-langs?username=utbshi&cache_seconds=60&theme=radical&langs_count=8&layout=compact
+[radical]: https://github-readme-stats.vercel.app/api?username=utsabshiwakoti&show_icons=true&cache_seconds=60&theme=radical
+[radical_repo]: https://github-readme-stats.vercel.app/api/top-langs?username=utsabshiwakoti&cache_seconds=60&theme=radical&langs_count=8&layout=compact
