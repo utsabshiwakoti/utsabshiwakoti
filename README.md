@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![radical][radical]  ![radical][radical_repo]
-
-
-[radical]: https://github-readme-stats.vercel.app/api?username=utsabshiwakoti&show_icons=true&cache_seconds=60&theme=radical
-[radical_repo]: https://github-readme-stats.vercel.app/api/top-langs?username=utsabshiwakoti&cache_seconds=60&theme=radical&langs_count=8&layout=compact
