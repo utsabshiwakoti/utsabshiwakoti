@@ -21,7 +21,7 @@ The live demos run on free hosting, so the first load can take up to a minute wh
 
 ## Work
 
-**Technical Analyst, UGEC Canada.** I built and run [ugec.ca](https://ugec.ca): the public site, a lead CRM for staff, and a referral partner portal, with two-step sign-in for admins. Node.js, Express and MySQL.
+**Technical Analyst, UGEC Canada.** I built and run [ugec.ca](https://ugec.ca): the public site, a lead CRM for staff, and a referral partner portal, with two-step sign-in for admins. 50+ leads captured so far, used by 2 staff and 6 referral partners. Node.js, Express and MySQL.
 
 ## What I work with
 
