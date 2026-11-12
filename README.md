@@ -4,7 +4,7 @@ Junior full-stack developer in Halifax, Nova Scotia. I build web apps end to end
 
 **[utsabshiwakoti.com](https://utsabshiwakoti.com)** · [Resume](https://utsabshiwakoti.com/resume.html) · [LinkedIn](https://www.linkedin.com/in/utsab-shiwakoti/) · [Email](mailto:sutsab4321@gmail.com)
 
-Open to junior developer roles, remote or hybrid, anywhere in Canada.
+Open to junior developer roles: on-site, hybrid or remote in Halifax or Toronto, and remote or hybrid anywhere else in Canada.
 
 ## Projects
 
